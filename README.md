@@ -1,5 +1,10 @@
 # 💫 About Me:
-I'm currently working on front-end development and looking to collaborate on frontend frameworks.  <br>I’m diving deep into React and Next.js and would love some help along the way.  <br>At the same time, I'm learning Golang and exploring the world of back-end development.  <br>Feel free to ask me anything about the back-end!  <br>Fun fact: I’m determined to become the best developer I can be, and nothing will stop me.
+👋 Hey there! I'm a tech enthusiast who loves coding and problem-solving. <br>  
+💻 Passionate about software development, cybersecurity, and networking. <br>  
+🚀 Exploring Python, Go, C++, Rust, and the MERN stack. <br>  
+🛠️ Building cool projects, from CLI tools to full-stack apps. <br>  
+⚡ Arsenal fan & always up for a challenge!  
+
 
 
 ## 🌐 Socials:
