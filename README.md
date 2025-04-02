@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hey there! I'm a tech enthusiast who loves coding and problem-solving.  Passionate about software development, cybersecurity, and networking.    Exploring Python, Go, C++, Rust, and the MERN stack.
-Building cool projects, from CLI tools to full-stack apps.
+Hey there! I'm a tech enthusiast who loves coding and problem-solving. <br> Passionate about software development, cybersecurity, and networking. <br> Exploring Python, Go, C++, Rust, and the MERN stack. <br>
+Building cool projects, from CLI tools to full-stack apps. <br>
 Arsenal fan & always up for a challenge!
 
 
