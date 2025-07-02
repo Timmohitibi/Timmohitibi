@@ -1,16 +1,8 @@
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/69763322?v=4" align="center" height="100" width="100" />
-</div>  
+![Banner](https://raw.githubusercontent.com/Timmohitibi/Timmohitibi/main/header.png)
+
+
   
-
-#   
-  
-
-<h1 align="left">👋 Hello, I'm Timothy Itibi!</h1>
-
-###
-
-<p align="left">Welcome to my coding journey! 💻<br><br>This is where I document my growth as a developer, experiment with new technologies and collaborate on exciting projects.</p>
+<p align="left">I'm glad you're here🙂<br><br>This is where I document my growth as a developer, experiment with new technologies and collaborate on exciting projects.</p>
 
 ###
 
