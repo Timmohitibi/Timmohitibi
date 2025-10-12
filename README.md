@@ -2,7 +2,7 @@
 
 
   
-<p align="left">I'm glad you're here🙂<br><br>This is where I document my growth as a developer, experiment with new technologies and collaborate on exciting projects.</p>
+<p align="left">I'm glad you're here.🙂<br><br>This is where I document my growth as a developer, experiment with new technologies and collaborate on exciting projects.</p>
 
 ###
 
