@@ -12,8 +12,8 @@
 
 <p align="left">🎓 Computer Science graduate<br><br>☁️ I'm diving into cloud computing and expanding my skills one service at a time.<br><br>🎯 Aspiring to become a well-rounded, versatile tech professional.<br>
   
-  <br>🚀 My Goals:<br>
-#
+  <h2 align="left">🚀 My Goals:</h2>
+
   <br> -To contribute to open-source projects<br><br>     -To build scalable and efficient software<br><br>     -To collaborate with other developers</p>
 
 ###
